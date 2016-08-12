@@ -1,0 +1,9 @@
+* Пример кода на ЦП CISC архитектуры
+** Как собрать?
+#+BEGIN_EXAMPLE
+$ make
+#+END_EXAMPLE
+** Как запустить?
+#+BEGIN_EXAMPLE
+$ ./get-answer
+#+END_EXAMPLE
